@@ -1,17 +1,14 @@
 {
-    "name": "atlasos_client/valorant-offer-check",
-    "autoload": {
-        "psr-4": {
-            "AtlasosClient\\ValorantOfferCheck\\": "src/"
-        }
+    "name": "digitalocean-apps/sample-php",
+    "description": "Sample PHP application for App Platform",
+    "type": "project",
+    "require": {
+        "alrik11es/cowsayphp": "^1.2"
     },
     "authors": [
         {
-            "name": "Aizend S. Grad",
-            "email": "88302292+c0mrate@users.noreply.github.com"
+            "name": "Kamal Nasser",
+            "email": "kamal@digitalocean.com"
         }
-    ],
-    "require": {
-        "php": "^8.0.0"
-    }
+    ]
 }

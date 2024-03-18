@@ -1,7 +1,7 @@
 <?php
 
 if (!isset($_SESSION['username']) || !isset($_SESSION['riot_response'])) {
-    header("Location: index.php");
+    header("Location: login.php");
     exit();
 }
 
