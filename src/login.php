@@ -27,10 +27,10 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="icon" href="/assest/asdwe4d.PNG">
+    <link rel="icon" href="src/assest/asdwe4d.PNG">
     <title>frxSai</title>
-    <link href="/css/main.css" rel="stylesheet">
-    <link href="/css/login.css" rel="stylesheet">
+    <link href="src/css/main.css" rel="stylesheet">
+    <link href="src/css/login.css" rel="stylesheet">
     <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
     <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
 </head>

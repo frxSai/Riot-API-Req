@@ -1,14 +1,14 @@
 {
-    "name": "digitalocean-apps/sample-php",
-    "description": "Sample PHP application for App Platform",
+    "name": "digitalocean-apps/frxsai",
+    "description": "Valorant API web-app betat-est",
     "type": "project",
     "require": {
         "alrik11es/cowsayphp": "^1.2"
     },
     "authors": [
         {
-            "name": "Kamal Nasser",
-            "email": "kamal@digitalocean.com"
+            "name": "Aizned",
+            "email": "aizend.asa@gmail.com"
         }
     ]
 }

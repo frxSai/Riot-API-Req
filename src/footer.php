@@ -1,6 +1,6 @@
 <footer class="footer-ctn">
     <div class="footer-img">
-        <img src="/assest/01_MAS2_FILM_V1_4K_ProRes_5.gif">
+        <img src="src/assest/01_MAS2_FILM_V1_4K_ProRes_5.gif">
     </div>
     <div class="copyright">
         <span>

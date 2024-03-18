@@ -96,9 +96,9 @@ $data = json_decode($response, true);
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>frxSai - Market offers</title>
-    <link href="/css/main.css" rel="stylesheet">
-    <link href="/css/market.css" rel="stylesheet">
-    <link href="/css/card.css" rel="stylesheet">
+    <link href="src/css/main.css" rel="stylesheet">
+    <link href="src/css/market.css" rel="stylesheet">
+    <link href="src/css/card.css" rel="stylesheet">
     <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
     <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
 
