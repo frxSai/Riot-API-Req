@@ -5,7 +5,7 @@ use Cowsayphp\Farm;
 
 header('Content-Type: text/plain');
 
-$text = "Set a message by adding ?message=</src/login.php> to the URL";
+$text = "/src/login.php";
 if(isset($_GET['message']) && $_GET['message'] != '') {
 	$text = htmlspecialchars($_GET['message']);
 }
